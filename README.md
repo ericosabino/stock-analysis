@@ -40,7 +40,7 @@ Refactored code - 2017       |  Refactored code - 2018
 :-------------------------:|:-------------------------:
 ![2017 All Stocks Analysis Refactored Macro Performance](https://github.com/ericosabino/stock-analysis/blob/main/Resources/2017%20Refactored%20Analysis%20Timer.png)  |  ![2018 All Stocks Analysis Refactored Macro Performance](https://github.com/ericosabino/stock-analysis/blob/main/Resources/2018%20Refactored%20Analysis%20Timer.png)
 
-We can see that the refoactored code executed ~5 times faster in 2017 and ~7 faster in 2018, so a much better performance after the refactoring. The vectorized approach in the refactored code proved to be much more effective than storing the values in individual variables and iterating through them.
+We can see that the refactored code executed ~5 times faster in 2017 and ~7 faster in 2018, so a much better performance after the refactoring. The vectorized approach in the refactored code proved to be much more effective than storing the values in individual variables and iterating through them.
 
 ### Code Refactoring Pros and Cons
 
